@@ -1,2 +1,2 @@
 # Simple_Server_Client
-Simple Server Client using Socket
+Simple Server Client Script using Socket
